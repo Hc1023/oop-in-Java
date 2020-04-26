@@ -2,7 +2,7 @@
 
 Learn OOP (Object Oriented Programming) in Java. 
 
-Start learning from April 24.
+Start learning from April 24, 2020
 
 You can find more resources for this course at: [http://www.dukelearntoprogram.com/course2/index.php](http://www.dukelearntoprogram.com/course2/index.php)
 
