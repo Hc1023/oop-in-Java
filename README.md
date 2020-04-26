@@ -1,8 +1,8 @@
 # oop in Java
 
-从今天起，开始学习OOP！Object Oriented Programming 面向对象编程，不过zju这课其实就是在学C++，就像DS (Data Structure) 规定我们用C.
+Learn OOP (Object Oriented Programming) in Java. 
 
-贵在坚持哦！
+Start learning from April 24.
 
 You can find more resources for this course at: [http://www.dukelearntoprogram.com/course2/index.php](http://www.dukelearntoprogram.com/course2/index.php)
 
